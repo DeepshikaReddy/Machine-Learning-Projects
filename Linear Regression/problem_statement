@@ -1,0 +1,11 @@
+Problem Statement:The advertising dataset captures the sales revenue  wrt to advertising costs across multiple channels like radio,tv,and newspapers.In this demo we will use linear regression to understand how spending on advertisements impact sales.
+1)Is there a relationship between Newspaper and sales?
+  --->yes , based on the p value.
+2)If so, how strong is their relationship?
+  --->It has the highest p value.
+3)What types of ads contribute to sales?
+  NA
+4)What is the effect each ad type has on sales?
+  Other attributes , other than Newspaper dont have any relationship with Sales
+5)Given ad spending, can sales be predicted?
+   Yes.
