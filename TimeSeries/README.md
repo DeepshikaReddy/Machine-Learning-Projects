@@ -4,3 +4,4 @@
 ### 3. LNS14000024.csv contains the non-seasonal data for analysis
 ### 4. Sample_Project.pdf is another sample project to show time series analysis on Seasonal data.
 ### 5. Time Series Decision Process_Box_Jenkins Models.pdf has the algorithm or flow to perform time series analysis of any dataset.
+### 6. Rmarkdown for time series project : https://rpubs.com/dreddyag/930697
